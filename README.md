@@ -1,11 +1,12 @@
 # Leidy Julieth Londoño Aristizabal
 
-**Temas visto hoy**
--Repaso de creación de repositorio y clonación
--Repaso de clases, atributos, funciones-metodos
--Ejercicio Practico
--Metodo construct
--Metodo de herencia con extend
+## Temas visto hoy
+
+- Repaso de creación de repositorio y clonación
+- Repaso de clases, atributos, funciones-metodos
+- Ejercicio Practico
+- Metodo construct
+- Metodo de herencia con extend
 
 ## Que aprendi 
 
