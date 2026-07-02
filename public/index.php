@@ -2,20 +2,8 @@
 
 require_once "../class/Persona.php";
 
-$Persona1 = new Persona ();
+$persona1 = new Persona ("Julieth","20","leidylondono030@gmail.com","Londoño");
+$persona2 = new Persona ("Elkin","21","elkinrivero22@gmail.com","Rivero");
 
-$Persona1->nombre = "Julieth";
-$Persona1->edad = 20;
-$Persona1->correo = "leidylondono030@gmail.com";
-$Persona1->apellido = "Londoño";
-
-echo $Persona1->saludar();
-
-$Persona2 = new Persona ();
-
-$Persona2->nombre = "Elkin";
-$Persona2->edad = 22;
-$Persona2->correo = "elkinrivero22@gmail.com";
-$Persona2->apellido = "Rivero";
-
-echo $Persona2->saludar();
+echo $persona1->saludar();
+echo $persona2->saludar();
